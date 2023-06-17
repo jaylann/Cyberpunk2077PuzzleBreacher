@@ -71,9 +71,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-Your Name - [@your_handle](https://twitter.com/your_handle)
-
-Project Link: https://github.com/your_username_/breach-protocol-solver
